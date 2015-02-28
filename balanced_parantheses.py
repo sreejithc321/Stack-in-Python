@@ -1,4 +1,3 @@
-
 from stack import Stack
 
 def paratheses_checker(data) :
