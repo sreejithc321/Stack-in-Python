@@ -1,4 +1,3 @@
-
 class Stack :
 	'''Python implementation the stack'''
 	
