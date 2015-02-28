@@ -1,4 +1,3 @@
-
 from stack import Stack
 
 def dec_to_bin(number):
