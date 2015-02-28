@@ -10,7 +10,7 @@ The stack operations are given below.
 - isEmpty() tests to see whether the stack is empty. It needs no parameters and returns a boolean value.
 - size() returns the number of items on the stack. It needs no parameters and returns an integer.
   
-### Implementing a Stack in Python using lists
+### Implementing a Stack in Python 
 
 - stack.py
 
@@ -28,4 +28,10 @@ The binary string is then returned.
 
 - decimal_to_binary.py
 
+### Infix, Prefix and Postfix Expressions
 
+In infix the operator is in between the two operands that it is working on. eg : A + B * C .
+In postfix, the expression would be A B C * + and + A * B C in prefix.
+
+- infix_to_postfix.py : Converting Infix Expressions to Postfix Expressions 
+- postfix_eval.py : Postfix Evaluation
